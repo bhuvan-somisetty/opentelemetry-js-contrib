@@ -1,6 +1,13 @@
 <!-- markdownlint-disable MD007 MD034 -->
 # Changelog
 
+## [0.66.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-pino-v0.65.0...instrumentation-pino-v0.66.0) (2026-06-26)
+
+
+### Features
+
+* **logging:** support otel.event.name in log bridges ([#3561](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/3561)) ([d2aab2f](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/d2aab2ffd26e2c3541a648fdb71d7cb1a88ececd))
+
 ## [0.65.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-pino-v0.64.0...instrumentation-pino-v0.65.0) (2026-06-11)
 
 

@@ -1,6 +1,15 @@
 <!-- markdownlint-disable MD007 MD034 -->
 # Changelog
 
+## [0.63.1](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-winston-v0.63.0...instrumentation-winston-v0.63.1) (2026-06-26)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * devDependencies
+    * @opentelemetry/winston-transport bumped from ^0.29.0 to ^0.30.0
+
 ## [0.63.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-winston-v0.62.0...instrumentation-winston-v0.63.0) (2026-06-11)
 
 

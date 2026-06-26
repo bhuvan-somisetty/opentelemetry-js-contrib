@@ -1,6 +1,21 @@
 <!-- markdownlint-disable MD007 MD034 -->
 # Changelog
 
+## [0.77.1](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/auto-instrumentations-node-v0.77.0...auto-instrumentations-node-v0.77.1) (2026-06-26)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @opentelemetry/instrumentation-amqplib bumped from ^0.66.0 to ^0.67.0
+    * @opentelemetry/instrumentation-aws-lambda bumped from ^0.71.0 to ^0.72.0
+    * @opentelemetry/instrumentation-bunyan bumped from ^0.64.0 to ^0.65.0
+    * @opentelemetry/instrumentation-express bumped from ^0.67.0 to ^0.67.1
+    * @opentelemetry/instrumentation-pino bumped from ^0.65.0 to ^0.66.0
+    * @opentelemetry/instrumentation-runtime-node bumped from ^0.32.0 to ^0.33.0
+    * @opentelemetry/instrumentation-winston bumped from ^0.63.0 to ^0.63.1
+
 ## [0.77.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/auto-instrumentations-node-v0.76.0...auto-instrumentations-node-v0.77.0) (2026-06-11)
 
 

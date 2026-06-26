@@ -1,6 +1,13 @@
 <!-- markdownlint-disable MD007 MD034 -->
 # Changelog
 
+## [0.67.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-amqplib-v0.66.0...instrumentation-amqplib-v0.67.0) (2026-06-26)
+
+
+### Features
+
+* **instrumentation-amqplib:** support amqplib@2 ([#3573](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/3573)) ([2f109df](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/2f109dfc7284faff683e527f05ca72bf994e8bcf))
+
 ## [0.66.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-amqplib-v0.65.0...instrumentation-amqplib-v0.66.0) (2026-06-11)
 
 

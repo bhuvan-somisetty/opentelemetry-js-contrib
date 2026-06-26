@@ -1,6 +1,14 @@
 <!-- markdownlint-disable MD007 MD034 -->
 # Changelog
 
+## [0.67.1](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-express-v0.67.0...instrumentation-express-v0.67.1) (2026-06-26)
+
+
+### Bug Fixes
+
+* **instrumentation-express:** filter Express v5 wildcard paths in get… ([#3557](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/3557)) ([76405b1](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/76405b10979da176814583ef87fb4174fc600160))
+* **instrumentation-express:** fix missing http.route when path-less middleware is ignored ([#3571](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/3571)) ([83a1dc4](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/83a1dc48e958840ec5bce2054e723d5fad32af2b))
+
 ## [0.67.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-express-v0.66.0...instrumentation-express-v0.67.0) (2026-06-11)
 
 
